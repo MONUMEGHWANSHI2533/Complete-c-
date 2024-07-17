@@ -6,7 +6,7 @@ int main()
 {
     char strr[]="MAYANK";
     char strr2[20];
-    char strr3[]="meghwanshi";
+    char strr3[]="meghwanshii";
     char strr4[]="seemar";
     char strr5[]="neerma";
 cout<<"string"<<endl;
